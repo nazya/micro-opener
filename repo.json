@@ -4,6 +4,12 @@
 		"Description": "Open files in Micro using fzf, yazi, lf, etc. as a picker",
 		"Author": "Nazarii Tupitsa",
 		"Website": "https://github.com/nazya/micro-opener",
-		"Version": "0.1.0"
+		"Versions": [
+		      {
+		        "Version": "0.1.0",
+		        "Url": "https://github.com/nazya/micro-opener/archive/refs/heads/main.zip",
+		        "Require": { "micro": ">=2.0.0" }
+		      }
+		    ]
 	}
 ]
