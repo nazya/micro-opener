@@ -1,0 +1,7 @@
+{
+  "Name": "opener",
+  "Description": "Open files in Micro using fzf, yazi, lf, etc. as a picker",
+  "Author": "Nazarii Tupitsa",
+  "Website": "https://github.com/nazya/micro-opener",
+  "Version": "0.1.0"
+}
